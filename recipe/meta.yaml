@@ -27,9 +27,11 @@ requirements:
   host:
     - r-base
     - r-proc
+    - r-vcd
   run:
     - r-base
     - r-proc
+    - r-vcd
 
 test:
   commands:
