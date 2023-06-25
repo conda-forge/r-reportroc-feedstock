@@ -1,11 +1,11 @@
-About r-reportroc
-=================
+About r-reportroc-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reportroc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=reportROC
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reportroc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides an easy way to report the results of ROC analysis, including: 1. an ROC curve. 2. the value of Cutoff, AUC (Area Under Curve), ACC (accuracy), SEN (sensitivity), SPE (specificity), PLR (positive likelihood ratio), NLR (negative likelihood ratio), PPV (positive predictive value), NPV (negative predictive value).
 
