@@ -1,6 +1,5 @@
 {% set version = "3.6" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-reportroc
@@ -13,8 +12,7 @@ source:
   sha256: c28d06316fb03bc2097b8a39ab836c7eeb63d6924b5926b2f324d0d366f4cfc1
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
